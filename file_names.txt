@@ -1,0 +1,29 @@
+1. 1. Image_Basics
+2. 10. image classification using ml multicalss
+3. 11. Image_Classification_Using_ANN copy
+4. 12. Image_Classification_Using_CNN
+5. 13. Color_Image_Classification
+6. 14. Image Classification on UserData
+7. 15_Imagenet_Classification
+8. 16.
+9. 16_AlexNet
+10. 17. VGGNet
+11. 18_ResNet_Pre_Trained
+12. 19_Transfer_Learning
+13. 2. ColorMaps
+14. 20_Faster_RCNN
+15. 21_Masked_RCNN
+16. 22_YOLO_Models
+17. 23_Image_Recreation
+18. 24.Image Mapping
+19. 25.Image Matching
+20. 26. Face Recognition
+21. 27.Gender prediction
+22. 3. Video_Processing
+23. 4. Image_Transformation
+24. 5. Images Smoothing and  Blurring
+25. 6. Thresholding
+26. 7 Edge Detection
+27. 8_Corner_Detection
+28. 9. Image Clasiification using ML-Binary
+29. mergefiles
